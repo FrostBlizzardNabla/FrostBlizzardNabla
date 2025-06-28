@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shivam-mukherjee-115571234/](https://www.linkedin.com/in/shivam-mukherjee-115571234/)
 
-- ⚡ Fun fact **S H R I M P**
+- ⚡ Fun fact: **S H R I M P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
