@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frostblizzardnabla&label=Profile%20views&color=0e75b6&style=flat" alt="frostblizzardnabla" /> </p>
 
-- 🔭 I’m currently working on **Arcana Mechanicus**
+- 🔭 I’m currently working on **Bionics, Exoskeletons, Robotics, anything that goes vrrr**
 
 - 🌱 I’m currently learning **C++, JavaScript, OpenCV, CAD**
 
